@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Halfdone\\Desktop\\FrontEndQA\\Front-End Automation Testing\\06.Exercise Selenium WebDriver Wait\\Exercise_Selenium_Waits\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC05CF9-FC0E-4E2D-8428-7A4D9798962C}|5. Working with iFrames\\5. Working with iFrames.csproj|c:\\users\\halfdone\\desktop\\frontendqa\\front-end automation testing\\06.exercise selenium webdriver wait\\exercise_selenium_waits\\5. working with iframes\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC05CF9-FC0E-4E2D-8428-7A4D9798962C}|5. Working with iFrames\\5. Working with iFrames.csproj|solutionrelative:5. working with iframes\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A11BC2-D5AF-4194-BCB1-C7D285F219F8}|4. Working with Alerts\\4. Working with Alerts.csproj|c:\\users\\halfdone\\desktop\\frontendqa\\front-end automation testing\\06.exercise selenium webdriver wait\\exercise_selenium_waits\\4. working with alerts\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A11BC2-D5AF-4194-BCB1-C7D285F219F8}|4. Working with Alerts\\4. Working with Alerts.csproj|solutionrelative:4. working with alerts\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C98B13-77ED-476C-8A0E-5572E6BBB5AE}|3.WorkingwithWindows\\3.WorkingwithWindows.csproj|c:\\users\\halfdone\\desktop\\frontendqa\\front-end automation testing\\06.exercise selenium webdriver wait\\exercise_selenium_waits\\3.workingwithwindows\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C98B13-77ED-476C-8A0E-5572E6BBB5AE}|3.WorkingwithWindows\\3.WorkingwithWindows.csproj|solutionrelative:3.workingwithwindows\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82DF351-60C1-4064-A325-99EB395C6734}|2.SearchProductWithExplicitWait\\2.SearchProductWithExplicitWait.csproj|c:\\users\\halfdone\\desktop\\frontendqa\\front-end automation testing\\06.exercise selenium webdriver wait\\exercise_selenium_waits\\2.searchproductwithexplicitwait\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82DF351-60C1-4064-A325-99EB395C6734}|2.SearchProductWithExplicitWait\\2.SearchProductWithExplicitWait.csproj|solutionrelative:2.searchproductwithexplicitwait\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9340B6FF-56B4-4B10-AA3C-D6B8DBC4B8F6}|1. Search Product with Implicit Wait\\1. Search Product with Implicit Wait.csproj|c:\\users\\halfdone\\desktop\\frontendqa\\front-end automation testing\\06.exercise selenium webdriver wait\\exercise_selenium_waits\\1. search product with implicit wait\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9340B6FF-56B4-4B10-AA3C-D6B8DBC4B8F6}|1. Search Product with Implicit Wait\\1. Search Product with Implicit Wait.csproj|solutionrelative:1. search product with implicit wait\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\FrontEndQA\\Front-End Automation Testing\\06.Exercise Selenium WebDriver Wait\\Exercise_Selenium_Waits\\5. Working with iFrames\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "5. Working with iFrames\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\FrontEndQA\\Front-End Automation Testing\\06.Exercise Selenium WebDriver Wait\\Exercise_Selenium_Waits\\5. Working with iFrames\\UnitTest1.cs",
+              "RelativeToolTip": "5. Working with iFrames\\UnitTest1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:13:42.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\FrontEndQA\\Front-End Automation Testing\\06.Exercise Selenium WebDriver Wait\\Exercise_Selenium_Waits\\4. Working with Alerts\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "4. Working with Alerts\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\FrontEndQA\\Front-End Automation Testing\\06.Exercise Selenium WebDriver Wait\\Exercise_Selenium_Waits\\4. Working with Alerts\\UnitTest1.cs",
+              "RelativeToolTip": "4. Working with Alerts\\UnitTest1.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAowFoAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:30:16.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\FrontEndQA\\Front-End Automation Testing\\06.Exercise Selenium WebDriver Wait\\Exercise_Selenium_Waits\\3.WorkingwithWindows\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "3.WorkingwithWindows\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\FrontEndQA\\Front-End Automation Testing\\06.Exercise Selenium WebDriver Wait\\Exercise_Selenium_Waits\\3.WorkingwithWindows\\UnitTest1.cs",
+              "RelativeToolTip": "3.WorkingwithWindows\\UnitTest1.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:12:54.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\FrontEndQA\\Front-End Automation Testing\\06.Exercise Selenium WebDriver Wait\\Exercise_Selenium_Waits\\2.SearchProductWithExplicitWait\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "2.SearchProductWithExplicitWait\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\FrontEndQA\\Front-End Automation Testing\\06.Exercise Selenium WebDriver Wait\\Exercise_Selenium_Waits\\2.SearchProductWithExplicitWait\\UnitTest1.cs",
+              "RelativeToolTip": "2.SearchProductWithExplicitWait\\UnitTest1.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:23:12.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\FrontEndQA\\Front-End Automation Testing\\06.Exercise Selenium WebDriver Wait\\Exercise_Selenium_Waits\\1. Search Product with Implicit Wait\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "1. Search Product with Implicit Wait\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\FrontEndQA\\Front-End Automation Testing\\06.Exercise Selenium WebDriver Wait\\Exercise_Selenium_Waits\\1. Search Product with Implicit Wait\\UnitTest1.cs",
+              "RelativeToolTip": "1. Search Product with Implicit Wait\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:32:12.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Halfdone\\Desktop\\SecretSouce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3050EA-AE51-478B-92BC-4E9F0459ED33}|TestProject1\\SeleniumWebDriverPOM.csproj|c:\\users\\halfdone\\desktop\\secretsouce\\testproject1\\pages\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3050EA-AE51-478B-92BC-4E9F0459ED33}|TestProject1\\SeleniumWebDriverPOM.csproj|solutionrelative:testproject1\\pages\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3050EA-AE51-478B-92BC-4E9F0459ED33}|TestProject1\\SeleniumWebDriverPOM.csproj|c:\\users\\halfdone\\desktop\\secretsouce\\testproject1\\pages\\hiddenmenupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3050EA-AE51-478B-92BC-4E9F0459ED33}|TestProject1\\SeleniumWebDriverPOM.csproj|solutionrelative:testproject1\\pages\\hiddenmenupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3050EA-AE51-478B-92BC-4E9F0459ED33}|TestProject1\\SeleniumWebDriverPOM.csproj|c:\\users\\halfdone\\desktop\\secretsouce\\testproject1\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3050EA-AE51-478B-92BC-4E9F0459ED33}|TestProject1\\SeleniumWebDriverPOM.csproj|solutionrelative:testproject1\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3050EA-AE51-478B-92BC-4E9F0459ED33}|TestProject1\\SeleniumWebDriverPOM.csproj|c:\\users\\halfdone\\desktop\\secretsouce\\testproject1\\pagestests\\loginpagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3050EA-AE51-478B-92BC-4E9F0459ED33}|TestProject1\\SeleniumWebDriverPOM.csproj|solutionrelative:testproject1\\pagestests\\loginpagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3050EA-AE51-478B-92BC-4E9F0459ED33}|TestProject1\\SeleniumWebDriverPOM.csproj|c:\\users\\halfdone\\desktop\\secretsouce\\testproject1\\pagestests\\inventorypagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3050EA-AE51-478B-92BC-4E9F0459ED33}|TestProject1\\SeleniumWebDriverPOM.csproj|solutionrelative:testproject1\\pagestests\\inventorypagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3050EA-AE51-478B-92BC-4E9F0459ED33}|TestProject1\\SeleniumWebDriverPOM.csproj|c:\\users\\halfdone\\desktop\\secretsouce\\testproject1\\pagestests\\hiddenmenupagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3050EA-AE51-478B-92BC-4E9F0459ED33}|TestProject1\\SeleniumWebDriverPOM.csproj|solutionrelative:testproject1\\pagestests\\hiddenmenupagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3050EA-AE51-478B-92BC-4E9F0459ED33}|TestProject1\\SeleniumWebDriverPOM.csproj|c:\\users\\halfdone\\desktop\\secretsouce\\testproject1\\pagestests\\checkoutpagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3050EA-AE51-478B-92BC-4E9F0459ED33}|TestProject1\\SeleniumWebDriverPOM.csproj|solutionrelative:testproject1\\pagestests\\checkoutpagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3050EA-AE51-478B-92BC-4E9F0459ED33}|TestProject1\\SeleniumWebDriverPOM.csproj|c:\\users\\halfdone\\desktop\\secretsouce\\testproject1\\pagestests\\cartpagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3050EA-AE51-478B-92BC-4E9F0459ED33}|TestProject1\\SeleniumWebDriverPOM.csproj|solutionrelative:testproject1\\pagestests\\cartpagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3050EA-AE51-478B-92BC-4E9F0459ED33}|TestProject1\\SeleniumWebDriverPOM.csproj|c:\\users\\halfdone\\desktop\\secretsouce\\testproject1\\pagestests\\basepagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3050EA-AE51-478B-92BC-4E9F0459ED33}|TestProject1\\SeleniumWebDriverPOM.csproj|solutionrelative:testproject1\\pagestests\\basepagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3050EA-AE51-478B-92BC-4E9F0459ED33}|TestProject1\\SeleniumWebDriverPOM.csproj|c:\\users\\halfdone\\desktop\\secretsouce\\testproject1\\pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3050EA-AE51-478B-92BC-4E9F0459ED33}|TestProject1\\SeleniumWebDriverPOM.csproj|solutionrelative:testproject1\\pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3050EA-AE51-478B-92BC-4E9F0459ED33}|TestProject1\\SeleniumWebDriverPOM.csproj|c:\\users\\halfdone\\desktop\\secretsouce\\testproject1\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3050EA-AE51-478B-92BC-4E9F0459ED33}|TestProject1\\SeleniumWebDriverPOM.csproj|solutionrelative:testproject1\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckOutPage.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\SecretSouce\\TestProject1\\Pages\\CheckOutPage.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Pages\\CheckOutPage.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\SecretSouce\\TestProject1\\Pages\\CheckOutPage.cs",
+              "RelativeToolTip": "TestProject1\\Pages\\CheckOutPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:27:10.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HiddenMenuPage.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\SecretSouce\\TestProject1\\Pages\\HiddenMenuPage.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Pages\\HiddenMenuPage.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\SecretSouce\\TestProject1\\Pages\\HiddenMenuPage.cs",
+              "RelativeToolTip": "TestProject1\\Pages\\HiddenMenuPage.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:27:02.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartPage.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\SecretSouce\\TestProject1\\Pages\\CartPage.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Pages\\CartPage.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\SecretSouce\\TestProject1\\Pages\\CartPage.cs",
+              "RelativeToolTip": "TestProject1\\Pages\\CartPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:24:06.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\SecretSouce\\TestProject1\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Pages\\BasePage.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\SecretSouce\\TestProject1\\Pages\\BasePage.cs",
+              "RelativeToolTip": "TestProject1\\Pages\\BasePage.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:23:56.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HiddenMenuPageTests.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\SecretSouce\\TestProject1\\PagesTests\\HiddenMenuPageTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\PagesTests\\HiddenMenuPageTests.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\SecretSouce\\TestProject1\\PagesTests\\HiddenMenuPageTests.cs",
+              "RelativeToolTip": "TestProject1\\PagesTests\\HiddenMenuPageTests.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:02:37.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CheckOutPageTests.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\SecretSouce\\TestProject1\\PagesTests\\CheckOutPageTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\PagesTests\\CheckOutPageTests.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\SecretSouce\\TestProject1\\PagesTests\\CheckOutPageTests.cs",
+              "RelativeToolTip": "TestProject1\\PagesTests\\CheckOutPageTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:22:43.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartPageTests.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\SecretSouce\\TestProject1\\PagesTests\\CartPageTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\PagesTests\\CartPageTests.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\SecretSouce\\TestProject1\\PagesTests\\CartPageTests.cs",
+              "RelativeToolTip": "TestProject1\\PagesTests\\CartPageTests.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:22:37.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryPageTests.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\SecretSouce\\TestProject1\\PagesTests\\InventoryPageTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\PagesTests\\InventoryPageTests.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\SecretSouce\\TestProject1\\PagesTests\\InventoryPageTests.cs",
+              "RelativeToolTip": "TestProject1\\PagesTests\\InventoryPageTests.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:39:24.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPageTests.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\SecretSouce\\TestProject1\\PagesTests\\LoginPageTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\PagesTests\\LoginPageTests.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\SecretSouce\\TestProject1\\PagesTests\\LoginPageTests.cs",
+              "RelativeToolTip": "TestProject1\\PagesTests\\LoginPageTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:11:26.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\SecretSouce\\TestProject1\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\SecretSouce\\TestProject1\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "TestProject1\\Pages\\LoginPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:58:05.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BasePageTests.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\SecretSouce\\TestProject1\\PagesTests\\BasePageTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\PagesTests\\BasePageTests.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\SecretSouce\\TestProject1\\PagesTests\\BasePageTests.cs",
+              "RelativeToolTip": "TestProject1\\PagesTests\\BasePageTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:25:44.264Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

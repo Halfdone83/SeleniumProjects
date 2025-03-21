@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\04.Exercise Selenium WebDriver\\ExerciseSeleniumWebDriver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1774BAA5-451C-423C-BB05-6FAF89E6B430}|1.3. Drop-down Practice\\1.3. Drop-down Practice.csproj|c:\\users\\halfdone\\desktop\\qa course\\automation\\frontendqa\\frontendautomationtesting\\04.exercise selenium webdriver\\exerciseseleniumwebdriver\\1.3. drop-down practice\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1774BAA5-451C-423C-BB05-6FAF89E6B430}|1.3. Drop-down Practice\\1.3. Drop-down Practice.csproj|solutionrelative:1.3. drop-down practice\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B0244C-4674-4AAD-B259-6D66B1160589}|2. Data-Driven Tests\\2. Data-Driven Tests.csproj|c:\\users\\halfdone\\desktop\\qa course\\automation\\frontendqa\\frontendautomationtesting\\04.exercise selenium webdriver\\exerciseseleniumwebdriver\\2. data-driven tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B0244C-4674-4AAD-B259-6D66B1160589}|2. Data-Driven Tests\\2. Data-Driven Tests.csproj|solutionrelative:2. data-driven tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B91628-3522-4E1D-A48B-5033D4E56B6E}|1.2. Working with Web Tables\\1.2. Working with Web Tables.csproj|c:\\users\\halfdone\\desktop\\qa course\\automation\\frontendqa\\frontendautomationtesting\\04.exercise selenium webdriver\\exerciseseleniumwebdriver\\1.2. working with web tables\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B91628-3522-4E1D-A48B-5033D4E56B6E}|1.2. Working with Web Tables\\1.2. Working with Web Tables.csproj|solutionrelative:1.2. working with web tables\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E5258B-3694-4F55-92D8-6BE7795E95F4}|1.1. Handling Form Input\\1.1. Handling Form Input.csproj|c:\\users\\halfdone\\desktop\\qa course\\automation\\frontendqa\\frontendautomationtesting\\04.exercise selenium webdriver\\exerciseseleniumwebdriver\\1.1. handling form input\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E5258B-3694-4F55-92D8-6BE7795E95F4}|1.1. Handling Form Input\\1.1. Handling Form Input.csproj|solutionrelative:1.1. handling form input\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\04.Exercise Selenium WebDriver\\ExerciseSeleniumWebDriver\\2. Data-Driven Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "2. Data-Driven Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\04.Exercise Selenium WebDriver\\ExerciseSeleniumWebDriver\\2. Data-Driven Tests\\UnitTest1.cs",
+              "RelativeToolTip": "2. Data-Driven Tests\\UnitTest1.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwEoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:11:31.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\04.Exercise Selenium WebDriver\\ExerciseSeleniumWebDriver\\1.1. Handling Form Input\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "1.1. Handling Form Input\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\04.Exercise Selenium WebDriver\\ExerciseSeleniumWebDriver\\1.1. Handling Form Input\\UnitTest1.cs",
+              "RelativeToolTip": "1.1. Handling Form Input\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:18:10.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\04.Exercise Selenium WebDriver\\ExerciseSeleniumWebDriver\\1.3. Drop-down Practice\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "1.3. Drop-down Practice\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\04.Exercise Selenium WebDriver\\ExerciseSeleniumWebDriver\\1.3. Drop-down Practice\\UnitTest1.cs",
+              "RelativeToolTip": "1.3. Drop-down Practice\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:32:51.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\04.Exercise Selenium WebDriver\\ExerciseSeleniumWebDriver\\1.2. Working with Web Tables\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "1.2. Working with Web Tables\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\04.Exercise Selenium WebDriver\\ExerciseSeleniumWebDriver\\1.2. Working with Web Tables\\UnitTest1.cs",
+              "RelativeToolTip": "1.2. Working with Web Tables\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:26:33.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
