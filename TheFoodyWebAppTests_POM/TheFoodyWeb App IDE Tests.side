@@ -1,0 +1,281 @@
+{
+  "id": "67223c51-a3c0-4c23-91c2-66b6210c67a7",
+  "version": "2.0",
+  "name": "The\"Foody\"Web App IDE Tests",
+  "url": "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:85/",
+  "tests": [{
+    "id": "90adaec5-8165-4b60-8cde-d49b0bcf2b13",
+    "name": "01.HomePageNavigationTest(Non-Logged User)",
+    "commands": [{
+      "id": "f56be976-b3b5-4e8e-9049-37558451ad4e",
+      "comment": "",
+      "command": "open",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "04b0e811-5ad9-451e-b550-9b912b2623f5",
+      "comment": "",
+      "command": "verifyTitle",
+      "target": "Home Page - Foody.WebApp",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e55b55c7-8cf1-4629-b62f-00212692c65c",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//a[@class='nav-link'][text()='Sign Up']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "bf4ffee7-3f61-49ba-b586-4f84d8c9e109",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//a[@class='nav-link'][text()='Log In']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "abafb0a1-2730-4d5d-9771-a38b6e6c33c1",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//a[@class='btn btn-primary btn-xl rounded-pill mt-5']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3ee81a0b-8439-48eb-96ac-c1b5f866922a",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "d4a1fb08-57fb-4ba5-8db3-0f12dcfb42f2",
+    "name": "02.Login In Test",
+    "commands": [{
+      "id": "58a789d4-dbed-47d5-b088-34734b984ea6",
+      "comment": "",
+      "command": "open",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "46b376a7-a320-4555-aa46-40173b955505",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1024x768",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a3762be6-f5c0-4416-b50d-0b30e526b47b",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//a[@class='nav-link'][text()='Log In']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "7057710f-38e5-49c2-9560-1e36fdfa216e",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@name=\"Username\"]",
+      "targets": [],
+      "value": "sve123"
+    }, {
+      "id": "c2962282-5571-4e15-a0cc-b93e5748e8a8",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@name=\"Password\"]",
+      "targets": [],
+      "value": "123456"
+    }, {
+      "id": "09ed494b-5916-4945-ad28-ff178c913789",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//button[@type=\"submit\"]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "59142f1d-ef0e-4d95-99ca-b90cc54681eb",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//a[@class='nav-link'][text()='Add Food']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "711df8f2-9c75-43aa-ace4-b29f09a9f552",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//a[@class='nav-link'][text()='Logout']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e7e21682-70d1-47d4-a4c1-445487da8927",
+      "comment": "",
+      "command": "assertText",
+      "target": "xpath=//h2[@class='masthead-subheading mb-0']",
+      "targets": [],
+      "value": "Welcome, sve123!"
+    }, {
+      "id": "9a83422d-8cd0-4419-b597-8189fafe0648",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//a[@class='nav-link'][text()='Logout']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5714dcda-998d-4399-acd8-12004606a844",
+      "comment": "",
+      "command": "assertText",
+      "target": "xpath=//h2[@class='masthead-subheading mb-0']",
+      "targets": [],
+      "value": "Share your homemade or store-bought food with us!"
+    }, {
+      "id": "81dd8d2f-b4b6-4669-b595-156042aacd0a",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "1bbb956f-26b2-4f8a-a1e8-92953c7e1c88",
+    "name": "03.Edit Profile Test",
+    "commands": [{
+      "id": "15925f35-2f9a-430c-b2a1-a2c7e8b53f35",
+      "comment": "",
+      "command": "open",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9d3858cc-7617-43b7-a17b-943f7051e4e4",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1024x768",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "07f593ca-f083-419b-ac8a-c45db36b1b22",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//a[@class='nav-link'][text()='Log In']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a7f283bd-aaa2-4983-b333-25f550945b52",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@name=\"Username\"]",
+      "targets": [],
+      "value": "sve123"
+    }, {
+      "id": "c0196d74-c542-4a81-9041-9536929877af",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@name=\"Password\"]",
+      "targets": [],
+      "value": "123456"
+    }, {
+      "id": "37ffff5c-228d-4b78-910e-af9dd9868706",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//button[@type=\"submit\"]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "05f2bc92-85c1-4b82-ac35-9c24e4d4fbd7",
+      "comment": "",
+      "command": "click",
+      "target": "css=[class='svg-inline--fa fa-user']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3b071335-8064-4ef9-9d43-b4555bf33164",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//a[@type=\"button\"]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c931d4e6-39d4-42ec-9813-f5eb091e34e3",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@name=\"FirstName\"]",
+      "targets": [],
+      "value": "SveEdited"
+    }, {
+      "id": "6108d460-abef-4c25-8d00-991fbaddd3ea",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@name=\"MiddleName\"]",
+      "targets": [],
+      "value": "edit"
+    }, {
+      "id": "03704f5e-de08-46f0-a57a-f07823271f55",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@name=\"LastName\"]",
+      "targets": [],
+      "value": "Dan_Edited"
+    }, {
+      "id": "f4e44616-2394-4e67-a0b0-eb4e56d57a68",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@name=\"About\"]",
+      "targets": [],
+      "value": "What About Me"
+    }, {
+      "id": "5b530aa5-c0a5-4ce2-bdc7-39df671b9af5",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//button[@type=\"submit\"]",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e418b3d5-44b6-4060-946f-2cdaed61fe0a",
+      "comment": "",
+      "command": "verifyText",
+      "target": "xpath=(//p[contains(@class, \"text-muted\") and contains(@class, \"mb-0\")])[1]",
+      "targets": [],
+      "value": "SveEdited edit Dan_Edited"
+    }, {
+      "id": "c433afa8-3c0e-4156-a980-e14399b19ca1",
+      "comment": "",
+      "command": "verifyText",
+      "target": "xpath=(//p[contains(@class, \"mb-1\")])[1]",
+      "targets": [],
+      "value": "What About Me"
+    }, {
+      "id": "cf698e1e-3366-458e-9b30-b0db02b99772",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//a[text()='Logout']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1ea78639-0f52-479a-b01d-22fe87d5a1f8",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//a[text()='Log In']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9316e311-91c9-49bb-912a-7565dd804e1f",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "f0d59e79-8bcb-4641-8c0c-5d3456d9626b",
+    "name": "The\"Foody\"WebAppTests",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["90adaec5-8165-4b60-8cde-d49b0bcf2b13", "d4a1fb08-57fb-4ba5-8db3-0f12dcfb42f2", "1bbb956f-26b2-4f8a-a1e8-92953c7e1c88"]
+  }],
+  "urls": ["http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:85/"],
+  "plugins": []
+}

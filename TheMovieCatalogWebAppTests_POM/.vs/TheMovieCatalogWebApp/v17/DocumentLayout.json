@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QA Course\\Automation\\FrontEndAutomationTesting\\17.Regular Exam\\TheMovieCatalogWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B747C109-9AFA-431B-BFE3-073EF8A5E5B8}|TheMovieCatalogWebApp\\TheMovieCatalogWebApp.csproj|d:\\qa course\\automation\\frontendautomationtesting\\17.regular exam\\themoviecatalogwebapp\\themoviecatalogwebapp\\pom_themoviecatalogwebapptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B747C109-9AFA-431B-BFE3-073EF8A5E5B8}|TheMovieCatalogWebApp\\TheMovieCatalogWebApp.csproj|solutionrelative:themoviecatalogwebapp\\pom_themoviecatalogwebapptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B747C109-9AFA-431B-BFE3-073EF8A5E5B8}|TheMovieCatalogWebApp\\TheMovieCatalogWebApp.csproj|d:\\qa course\\automation\\frontendautomationtesting\\17.regular exam\\themoviecatalogwebapp\\themoviecatalogwebapp\\pages\\moviespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B747C109-9AFA-431B-BFE3-073EF8A5E5B8}|TheMovieCatalogWebApp\\TheMovieCatalogWebApp.csproj|solutionrelative:themoviecatalogwebapp\\pages\\moviespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B747C109-9AFA-431B-BFE3-073EF8A5E5B8}|TheMovieCatalogWebApp\\TheMovieCatalogWebApp.csproj|d:\\qa course\\automation\\frontendautomationtesting\\17.regular exam\\themoviecatalogwebapp\\themoviecatalogwebapp\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B747C109-9AFA-431B-BFE3-073EF8A5E5B8}|TheMovieCatalogWebApp\\TheMovieCatalogWebApp.csproj|solutionrelative:themoviecatalogwebapp\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B747C109-9AFA-431B-BFE3-073EF8A5E5B8}|TheMovieCatalogWebApp\\TheMovieCatalogWebApp.csproj|d:\\qa course\\automation\\frontendautomationtesting\\17.regular exam\\themoviecatalogwebapp\\themoviecatalogwebapp\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B747C109-9AFA-431B-BFE3-073EF8A5E5B8}|TheMovieCatalogWebApp\\TheMovieCatalogWebApp.csproj|solutionrelative:themoviecatalogwebapp\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B747C109-9AFA-431B-BFE3-073EF8A5E5B8}|TheMovieCatalogWebApp\\TheMovieCatalogWebApp.csproj|d:\\qa course\\automation\\frontendautomationtesting\\17.regular exam\\themoviecatalogwebapp\\themoviecatalogwebapp\\nopom_themoviecatalogwebapptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B747C109-9AFA-431B-BFE3-073EF8A5E5B8}|TheMovieCatalogWebApp\\TheMovieCatalogWebApp.csproj|solutionrelative:themoviecatalogwebapp\\nopom_themoviecatalogwebapptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B747C109-9AFA-431B-BFE3-073EF8A5E5B8}|TheMovieCatalogWebApp\\TheMovieCatalogWebApp.csproj|d:\\qa course\\automation\\frontendautomationtesting\\17.regular exam\\themoviecatalogwebapp\\themoviecatalogwebapp\\pages\\watchedmoviespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B747C109-9AFA-431B-BFE3-073EF8A5E5B8}|TheMovieCatalogWebApp\\TheMovieCatalogWebApp.csproj|solutionrelative:themoviecatalogwebapp\\pages\\watchedmoviespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WatchedMoviesPage.cs",
+              "DocumentMoniker": "D:\\QA Course\\Automation\\FrontEndAutomationTesting\\17.Regular Exam\\TheMovieCatalogWebApp\\TheMovieCatalogWebApp\\Pages\\WatchedMoviesPage.cs",
+              "RelativeDocumentMoniker": "TheMovieCatalogWebApp\\Pages\\WatchedMoviesPage.cs",
+              "ToolTip": "D:\\QA Course\\Automation\\FrontEndAutomationTesting\\17.Regular Exam\\TheMovieCatalogWebApp\\TheMovieCatalogWebApp\\Pages\\WatchedMoviesPage.cs",
+              "RelativeToolTip": "TheMovieCatalogWebApp\\Pages\\WatchedMoviesPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:38:58.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "D:\\QA Course\\Automation\\FrontEndAutomationTesting\\17.Regular Exam\\TheMovieCatalogWebApp\\TheMovieCatalogWebApp\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "TheMovieCatalogWebApp\\Pages\\LoginPage.cs",
+              "ToolTip": "D:\\QA Course\\Automation\\FrontEndAutomationTesting\\17.Regular Exam\\TheMovieCatalogWebApp\\TheMovieCatalogWebApp\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "TheMovieCatalogWebApp\\Pages\\LoginPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:38:37.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesPage.cs",
+              "DocumentMoniker": "D:\\QA Course\\Automation\\FrontEndAutomationTesting\\17.Regular Exam\\TheMovieCatalogWebApp\\TheMovieCatalogWebApp\\Pages\\MoviesPage.cs",
+              "RelativeDocumentMoniker": "TheMovieCatalogWebApp\\Pages\\MoviesPage.cs",
+              "ToolTip": "D:\\QA Course\\Automation\\FrontEndAutomationTesting\\17.Regular Exam\\TheMovieCatalogWebApp\\TheMovieCatalogWebApp\\Pages\\MoviesPage.cs",
+              "RelativeToolTip": "TheMovieCatalogWebApp\\Pages\\MoviesPage.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwBoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:37:52.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "D:\\QA Course\\Automation\\FrontEndAutomationTesting\\17.Regular Exam\\TheMovieCatalogWebApp\\TheMovieCatalogWebApp\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "TheMovieCatalogWebApp\\Pages\\BasePage.cs",
+              "ToolTip": "D:\\QA Course\\Automation\\FrontEndAutomationTesting\\17.Regular Exam\\TheMovieCatalogWebApp\\TheMovieCatalogWebApp\\Pages\\BasePage.cs",
+              "RelativeToolTip": "TheMovieCatalogWebApp\\Pages\\BasePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:37:25.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "POM_TheMovieCatalogWebAppTests.cs",
+              "DocumentMoniker": "D:\\QA Course\\Automation\\FrontEndAutomationTesting\\17.Regular Exam\\TheMovieCatalogWebApp\\TheMovieCatalogWebApp\\POM_TheMovieCatalogWebAppTests.cs",
+              "RelativeDocumentMoniker": "TheMovieCatalogWebApp\\POM_TheMovieCatalogWebAppTests.cs",
+              "ToolTip": "D:\\QA Course\\Automation\\FrontEndAutomationTesting\\17.Regular Exam\\TheMovieCatalogWebApp\\TheMovieCatalogWebApp\\POM_TheMovieCatalogWebAppTests.cs",
+              "RelativeToolTip": "TheMovieCatalogWebApp\\POM_TheMovieCatalogWebAppTests.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:36:23.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NoPOM_TheMovieCatalogWebAppTests.cs",
+              "DocumentMoniker": "D:\\QA Course\\Automation\\FrontEndAutomationTesting\\17.Regular Exam\\TheMovieCatalogWebApp\\TheMovieCatalogWebApp\\NoPOM_TheMovieCatalogWebAppTests.cs",
+              "RelativeDocumentMoniker": "TheMovieCatalogWebApp\\NoPOM_TheMovieCatalogWebAppTests.cs",
+              "ToolTip": "D:\\QA Course\\Automation\\FrontEndAutomationTesting\\17.Regular Exam\\TheMovieCatalogWebApp\\TheMovieCatalogWebApp\\NoPOM_TheMovieCatalogWebAppTests.cs",
+              "RelativeToolTip": "TheMovieCatalogWebApp\\NoPOM_TheMovieCatalogWebAppTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T06:58:32.109Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

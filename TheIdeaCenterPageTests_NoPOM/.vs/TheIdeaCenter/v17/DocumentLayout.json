@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QA Course\\Automation\\FrontEndAutomationTesting\\15.Exam Preparation I\\TheIdeaCenter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B013ADF-D37B-43F9-9846-3C782A89B4CD}|TheIdeaCenter\\TheIdeaCenter.csproj|d:\\qa course\\automation\\frontendautomationtesting\\15.exam preparation i\\theideacenter\\theideacenter\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B013ADF-D37B-43F9-9846-3C782A89B4CD}|TheIdeaCenter\\TheIdeaCenter.csproj|solutionrelative:theideacenter\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\QA Course\\Automation\\FrontEndAutomationTesting\\15.Exam Preparation I\\TheIdeaCenter\\TheIdeaCenter\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TheIdeaCenter\\UnitTest1.cs",
+              "ToolTip": "D:\\QA Course\\Automation\\FrontEndAutomationTesting\\15.Exam Preparation I\\TheIdeaCenter\\TheIdeaCenter\\UnitTest1.cs",
+              "RelativeToolTip": "TheIdeaCenter\\UnitTest1.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwIEAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:03:08.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
